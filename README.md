@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ishakemin
+- 👀 I’m interested in JAVA
+- 🌱 I’m currently learning HTML/CSS
+- 📫 How to reach me ...
